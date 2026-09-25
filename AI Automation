@@ -1,0 +1,35 @@
+# AI Lead Qualification & Follow-Up System
+
+## Overview
+An automated workflow that captures leads,
+qualifies them using AI, and sends personalized
+follow-up messages.
+
+## Problem
+Businesses lose potential customers because
+new leads aren't contacted quickly.
+
+## Solution
+[diagram/screenshot]
+
+## Workflow
+1. Lead enters through form
+2. Webhook receives information
+3. AI analyzes the lead
+4. Lead is categorized
+5. CRM is updated
+6. Personalized email is sent
+7. Sales team receives notification
+
+## Tech Stack
+- n8n
+- OpenAI API
+- Google Sheets
+- Gmail API
+- CRM API
+
+## Setup
+...
+
+## Author
+Novapeace
